@@ -32,6 +32,6 @@ O objetivo deste projeto é demonstrar o uso de ferramentas e práticas de execu
 ---
 
 📅 **Status geral:** 🟢 Em andamento  
-👤 **Responsável:** Lucas Priber  
+👤 **Responsável:** Lucas Pereira  
 🔗 **Repositório:** https://github.com/lpriber/execucao-controle
 
